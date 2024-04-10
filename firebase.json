@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "meetings-6154a",
+                    "appId": "1:1093970370081:android:91a1cfe1c3377b57f70d60",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "meetings-6154a",
+                    "configurations": {
+                        "android": "1:1093970370081:android:91a1cfe1c3377b57f70d60",
+                        "web": "1:1093970370081:web:e50383f2733d2ff3f70d60",
+                        "windows": "1:1093970370081:web:4a754bfe4f0d7440f70d60"
+                    }
+                }
+            }
+        }
+    }
+}
