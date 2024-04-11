@@ -40,6 +40,16 @@ dependencies:
   cloud_firestore: ^4.16.1
   firebase_storage: ^11.7.1
   firebase_analytics: ^10.10.1
+  asyncstate: ^2.1.1-dev.1
+  loading_animation_widget: ^1.2.0+4
+  signals_flutter: ^4.5.1
+  top_snackbar_flutter: ^3.1.0
+  flutter_getit: ^2.0.0
+  validatorless: ^1.2.3
+  brasil_fields: ^1.14.3
+
+
+
 
 dev_dependencies:
   flutter_test:
